@@ -1,0 +1,37 @@
+# Retained physical-device facts
+#
+# This is deliberately limited to values already observed on the physical
+# FOXX/MIRO A1. It is not filled from retail or SoC-reference pages.
+# Unique serial numbers, Android IDs, IMEIs and storage CIDs are excluded.
+
+product_model	MIRO A1
+android_release	14
+android_api	34
+build_fingerprint	MIRO/A1/A1:14/UP1A.231005.007/1736153679:user/release-keys
+primary_abi	armeabi-v7a
+abi_list	armeabi-v7a,armeabi
+abi_list_64	
+kernel_machine	armv7l
+kernel_release	5.15.149-android13-8-g8407b75767d0-dirty
+kernel_uname	Linux localhost 5.15.149-android13-8-g8407b75767d0-dirty #1 SMP PREEMPT Tue Aug 27 08:10:29 UTC 2024 armv7l Android
+page_size_bytes	4096
+c_library	Bionic
+
+# Not yet established by retained physical-device evidence:
+exact_soc_model	UNKNOWN
+cpu_implementer_part_revision	UNKNOWN
+cpu_core_count_and_frequencies	UNKNOWN
+physical_arm_architecture_revision	UNKNOWN
+exact_gpu_model	UNKNOWN
+ram_physical_bytes	UNKNOWN
+ram_package_vendor_model	UNKNOWN
+internal_storage_transport	UNKNOWN
+internal_storage_vendor	UNKNOWN
+internal_storage_product	UNKNOWN
+internal_storage_revision	UNKNOWN
+nand_type_geometry	UNKNOWN
+zram_size_bytes	UNKNOWN
+zram_primary_compressor	UNKNOWN
+zram_supported_compressors	UNKNOWN
+zram_writeback_support	UNKNOWN
+zram_backing_device	UNKNOWN
