@@ -2,11 +2,11 @@
 
 The zram experiment is a concrete implementation case for two neighboring projects.
 
-## Edriç / Idriç
+## Idriç
 
 Design note: https://github.com/isomorphisms/Idric/blob/edric-memory-tiering-lowering-note/EDRIC_MEMORY_TIERING.md
 
-Edriç should be able to state the memory policy in semantic terms before exposing zram sysfs, Binder, DEX, native ABI, or machine instructions. The same source-level intent can lower through different target paths.
+Idriç should be able to state the memory policy in semantic terms before exposing zram sysfs, Binder, DEX, native ABI, or machine instructions. The same source-level intent can lower through different target paths.
 
 Example shape:
 
